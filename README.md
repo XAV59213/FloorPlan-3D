@@ -19,3 +19,5 @@ https://www.youtube.com/watch?app=desktop&v=dGoXLjy6z2c&t=0s
 https://www.photopea.com/
 
 4 Paramétrage de HomeAssistant.
+
+https://github.com/XAV59213/FloorPlan-3D/blob/main/lovelace.yml

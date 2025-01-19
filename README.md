@@ -12,6 +12,10 @@ exemple https://github.com/XAV59213/FloorPlan-3D/tree/main/plan
 
 2 Création des photos
 
+https://www.youtube.com/watch?app=desktop&v=dGoXLjy6z2c&t=0s
+
 3 Création des pièces allumées
+
+https://www.photopea.com/
 
 4 Paramétrage de HomeAssistant.
